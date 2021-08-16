@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-redux-toolkit-github-search/static/css/main.f6cf5252.chunk.css",
-    "main.js": "/react-redux-toolkit-github-search/static/js/main.ec792d57.chunk.js",
-    "main.js.map": "/react-redux-toolkit-github-search/static/js/main.ec792d57.chunk.js.map",
+    "main.js": "/react-redux-toolkit-github-search/static/js/main.bcfd9fe3.chunk.js",
+    "main.js.map": "/react-redux-toolkit-github-search/static/js/main.bcfd9fe3.chunk.js.map",
     "runtime-main.js": "/react-redux-toolkit-github-search/static/js/runtime-main.b5a5ad37.js",
     "runtime-main.js.map": "/react-redux-toolkit-github-search/static/js/runtime-main.b5a5ad37.js.map",
-    "static/js/2.626e4f37.chunk.js": "/react-redux-toolkit-github-search/static/js/2.626e4f37.chunk.js",
-    "static/js/2.626e4f37.chunk.js.map": "/react-redux-toolkit-github-search/static/js/2.626e4f37.chunk.js.map",
+    "static/js/2.f0b0a5e9.chunk.js": "/react-redux-toolkit-github-search/static/js/2.f0b0a5e9.chunk.js",
+    "static/js/2.f0b0a5e9.chunk.js.map": "/react-redux-toolkit-github-search/static/js/2.f0b0a5e9.chunk.js.map",
     "index.html": "/react-redux-toolkit-github-search/index.html",
     "static/css/main.f6cf5252.chunk.css.map": "/react-redux-toolkit-github-search/static/css/main.f6cf5252.chunk.css.map",
-    "static/js/2.626e4f37.chunk.js.LICENSE.txt": "/react-redux-toolkit-github-search/static/js/2.626e4f37.chunk.js.LICENSE.txt"
+    "static/js/2.f0b0a5e9.chunk.js.LICENSE.txt": "/react-redux-toolkit-github-search/static/js/2.f0b0a5e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b5a5ad37.js",
-    "static/js/2.626e4f37.chunk.js",
+    "static/js/2.f0b0a5e9.chunk.js",
     "static/css/main.f6cf5252.chunk.css",
-    "static/js/main.ec792d57.chunk.js"
+    "static/js/main.bcfd9fe3.chunk.js"
   ]
 }
