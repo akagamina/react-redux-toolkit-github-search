@@ -1,8 +1,5 @@
 # React Redux Toolkit Github Search
-
 ## Install Instructions
-
-<!-- `git clone https://gitlab.trendyol.com/product/pim/translation-ui.git` -->
 
 `yarn`
 
